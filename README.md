@@ -1,9 +1,9 @@
-**School Management System**
+# **School Management System**
 
 This is a simple School Management System developed using C++ in Visual Studio Code. It is designed to be a console application that can be used to manage student information and academic records.
 
 
-**Features**
+# **Features**
 1. Add new student
 2. Modify student details
 3. Delete student
@@ -13,7 +13,7 @@ This is a simple School Management System developed using C++ in Visual Studio C
 7. Generate student reports
 
 
-**Installation**
+# **Installation**
 
 1. Clone the repository
 
@@ -25,7 +25,7 @@ This is a simple School Management System developed using C++ in Visual Studio C
 4. Run the executable file generated in the bin folder
 
 
-**Usage**
+# **Usage**
 
 1. Start the program by running the executable file
 2. Use the menu options to perform the desired actions
