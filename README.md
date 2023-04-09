@@ -17,7 +17,7 @@ This is a simple School Management System developed using C++ in Visual Studio C
 
 1. Clone the repository
 
-  git clone https://github.com/your_username/school-management-system.git
+  git clone https://github.com/0007ishav/School-Management-System.git
 
 2. Open the project in Visual Studio Code
 3. Build the project by pressing Ctrl+Shift+B
